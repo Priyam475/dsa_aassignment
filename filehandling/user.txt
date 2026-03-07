@@ -1,0 +1,3 @@
+maango |100
+apple | 200
+Pare | 90
